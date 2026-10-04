@@ -1,0 +1,167 @@
+{
+  "notebook": "main.ipynb",
+  "indexing": "zero-based",
+  "images": [
+    {
+      "file": "feature-scales-raw.png",
+      "cell_index": 48,
+      "output_index": 0,
+      "width": 1343,
+      "height": 887
+    },
+    {
+      "file": "feature-scales-normalized.png",
+      "cell_index": 50,
+      "output_index": 0,
+      "width": 1339,
+      "height": 887
+    },
+    {
+      "file": "structured-euclidean.png",
+      "cell_index": 55,
+      "output_index": 1,
+      "width": 783,
+      "height": 484
+    },
+    {
+      "file": "structured-cosine.png",
+      "cell_index": 57,
+      "output_index": 1,
+      "width": 1481,
+      "height": 484
+    },
+    {
+      "file": "pca-variance.png",
+      "cell_index": 60,
+      "output_index": 1,
+      "width": 1184,
+      "height": 584
+    },
+    {
+      "file": "cluster-selection.png",
+      "cell_index": 68,
+      "output_index": 1,
+      "width": 1584,
+      "height": 484
+    },
+    {
+      "file": "cluster-silhouette.png",
+      "cell_index": 68,
+      "output_index": 3,
+      "width": 984,
+      "height": 584
+    },
+    {
+      "file": "hard-cluster-euclidean.png",
+      "cell_index": 73,
+      "output_index": 1,
+      "width": 784,
+      "height": 484
+    },
+    {
+      "file": "hard-cluster-cosine.png",
+      "cell_index": 75,
+      "output_index": 1,
+      "width": 1481,
+      "height": 484
+    },
+    {
+      "file": "soft-cluster-membership.png",
+      "cell_index": 80,
+      "output_index": 1,
+      "width": 2234,
+      "height": 469
+    },
+    {
+      "file": "soft-cluster-euclidean.png",
+      "cell_index": 84,
+      "output_index": 1,
+      "width": 784,
+      "height": 484
+    },
+    {
+      "file": "soft-cluster-cosine.png",
+      "cell_index": 86,
+      "output_index": 1,
+      "width": 1481,
+      "height": 484
+    },
+    {
+      "file": "tfidf-sparsity.png",
+      "cell_index": 92,
+      "output_index": 1,
+      "width": 924,
+      "height": 983
+    },
+    {
+      "file": "tfidf-profile-similarity.png",
+      "cell_index": 103,
+      "output_index": 0,
+      "width": 862,
+      "height": 475
+    },
+    {
+      "file": "tfidf-euclidean.png",
+      "cell_index": 107,
+      "output_index": 1,
+      "width": 784,
+      "height": 484
+    },
+    {
+      "file": "tfidf-cosine.png",
+      "cell_index": 109,
+      "output_index": 1,
+      "width": 1481,
+      "height": 484
+    },
+    {
+      "file": "semantic-profile-similarity.png",
+      "cell_index": 121,
+      "output_index": 0,
+      "width": 854,
+      "height": 475
+    },
+    {
+      "file": "semantic-euclidean.png",
+      "cell_index": 126,
+      "output_index": 1,
+      "width": 784,
+      "height": 484
+    },
+    {
+      "file": "semantic-cosine.png",
+      "cell_index": 128,
+      "output_index": 1,
+      "width": 1481,
+      "height": 484
+    },
+    {
+      "file": "model-benchmark.png",
+      "cell_index": 133,
+      "output_index": 1,
+      "width": 1384,
+      "height": 584
+    },
+    {
+      "file": "top-n-sensitivity.png",
+      "cell_index": 133,
+      "output_index": 2,
+      "width": 1084,
+      "height": 484
+    },
+    {
+      "file": "spaces-euclidean.png",
+      "cell_index": 136,
+      "output_index": 1,
+      "width": 1384,
+      "height": 786
+    },
+    {
+      "file": "spaces-cosine.png",
+      "cell_index": 137,
+      "output_index": 1,
+      "width": 1382,
+      "height": 785
+    }
+  ]
+}
