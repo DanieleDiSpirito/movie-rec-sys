@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-labelledby="title desc">
+  <title id="title">movie-rec-sys</title>
+  <desc id="desc">The project name above the orange, green and blue Letterboxd dots.</desc>
+  <rect width="480" height="360" fill="#14181c"/>
+  <text x="240" y="116" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="32" fill="#ffffff">movie-rec-sys</text>
+  <defs>
+    <clipPath id="left"><circle cx="164" cy="213" r="51"/></clipPath>
+    <clipPath id="right"><circle cx="316" cy="213" r="51"/></clipPath>
+  </defs>
+  <circle cx="164" cy="213" r="51" fill="#ff8000"/>
+  <circle cx="240" cy="213" r="51" fill="#00e054"/>
+  <circle cx="316" cy="213" r="51" fill="#40bcf4"/>
+  <circle cx="240" cy="213" r="51" fill="#fff" clip-path="url(#left)"/>
+  <circle cx="240" cy="213" r="51" fill="#fff" clip-path="url(#right)"/>
+</svg>
